@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-MaziEminent/MaziEminent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+@OSSDAO-ORG•AIRDROP-0x58a01B78CA9073c196223AC9427F6e8B8aC8fAa5
